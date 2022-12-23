@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "chapter-front-avenue"
+  },
+  "targets": {
+    "chapter-front-avenue": {
+      "hosting": {
+        "chapter-front-avenue": [
+          "chapter-front-avenue"
+        ]
+      }
+    }
+  }
+}
