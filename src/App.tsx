@@ -5,7 +5,7 @@ import ReadTheDocs from '@/Components/ReadTheDocs';
 
 function App() {
   const [count, setCount] = useState(0);
-
+  console.log("teste")
   return (
     <div className="App">
       <Header />
